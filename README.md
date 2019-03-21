@@ -1,6 +1,5 @@
 # Confusion Restaurant 
-The website is a appliction form for merchants to register. It created by React JS.Digital signature is available. 
-
+This website displays a menu for customers, they can see the detail of each dish and comment on it. It created by React JS Reactstrap and Redux.
 ## Getting Started
 Run ```yarn install```, and start the app :
 ```yarn start```
