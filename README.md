@@ -1,5 +1,6 @@
 # Confusion Restaurant 
-This website displays a menu for customers, they can see the detail of each dish and comment on it. It created by React JS Reactstrap and Redux.
+This website displays a menu for customers, they can see the detail of each dish and comment on it. 
+It was created by React JS Reactstrap and Redux.
 ## Getting Started
 Run ```yarn install```, and start the app :
 ```yarn start```
